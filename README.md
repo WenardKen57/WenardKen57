@@ -1,6 +1,10 @@
-## Hi, I'm Wenard Ken
+<h1 align="center">Hi, I'm Wenard Ken</h1>
+<h3 align="center">A passionate front-end developer from Philippines!</h3>
 
-<h1 align="center">Hi</h1>
+- I'm currently learning React
+- I'm looking to collaborate on **Open-source projects**
+- Ask me about **HTML, CSS, JS**
+- Fun Fact: _I like turning my ideas into real applications_
 
 <!--
 **WenardKen57/WenardKen57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->

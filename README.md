@@ -6,6 +6,10 @@
 - Ask me about **HTML, CSS, JS**
 - Fun Fact: _I like turning my ideas into real applications_
 
+### Language and tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,linux,vscode,git" />
+</p>
 <!--
 **WenardKen57/WenardKen57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
